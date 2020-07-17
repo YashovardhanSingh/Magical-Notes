@@ -1,0 +1,31 @@
+/* my-3 is class of bootstrap meaning margininY 0f 3 */
+/* .left{
+    /* margin-left: 88%; */
+
+body{
+    /* background-color: #bef2e6; */
+    background-image: url('bg2.png');
+    /* background-image: url('todo.gif'); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Roboto', sans-serif;
+}
+#addBtn{
+    border-radius: 7px;
+    font-size: 20px;
+}
+#title{
+    font-size: 30px;
+}
+#quoteHeading:hover{
+    font-size: 2.7rem;
+}
+.iconbtn{
+    background-color: transparent;
+    cursor: pointer;
+    border: none;
+}
+.iconbtn:focus {
+    border: none;
+}
