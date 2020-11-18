@@ -1,11 +1,5 @@
-/* my-3 is class of bootstrap meaning margininY 0f 3 */
-/* .left{
-    /* margin-left: 88%; */
-
 body{
-    /* background-color: #bef2e6; */
-    background-image: url('bg2.png');
-    /* background-image: url('todo.gif'); */
+    background-image: url('background.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
