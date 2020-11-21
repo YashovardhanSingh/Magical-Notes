@@ -120,12 +120,6 @@ search.addEventListener('input', function () {
     })
 })
 
-// function changeTime() {
-//     let time = new Date();
-//     document.getElementById('time').innerText = time.getHours() + ':' + time.getMinutes() + ':' + time.getSeconds();
-// }
-
-// setInterval(changeTime, 1000);
 function makeImp(index){
     let impos = localStorage.getItem('impos');
     if (impos == null){
